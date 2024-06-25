@@ -1,0 +1,126 @@
+
+
+
+body
+{
+	background-image: url("fond.jpg") ;
+	background-repeat:no-repeat ;
+	background-size: cover ;
+	background-attachment: fixed ;
+}
+
+
+h1
+{
+
+	font-family: 'Noto Serif', serif;
+	font-size: 20px ;
+
+}
+
+a
+{
+	text-decoration: none; 
+	color: #38841A ;
+} 
+
+
+#prime
+{
+	text-align:center;
+	background-color: #FFFFFF;
+	margin: 40px 200px 0 200px;
+	padding: 10px ;
+	border: #D4D3D3 1px solid ;
+
+}
+
+#text
+{
+	text-align:left;
+	margin-top: 15px;
+	float: left ;
+	width: 65% ;
+	margin-left: 15px ; 
+
+}
+.wiki
+{
+	font-family: 'Noto Serif', serif;
+	font-size: 12px ;
+	padding-left: 20px ;
+	margin-left: 20px ; 
+	border-left: #D4D3D3 4px double ;
+	color: #9D9D9D ;
+}
+
+#article
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px ;
+	float: left ;
+	width: 48% ;
+	line-height: 1.6;
+	text-align: justify;
+	text-justify: inter-word;
+	
+}
+
+#photo
+{
+	float: right ;
+	width: 48% ;	
+	text-align: center;
+	border: #D4D3D3 1px solid ;
+	padding: 1px 1px 0px 1px ;
+}
+
+#photo img 
+{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#link
+{
+	background-color: #FAFADE ;
+	margin-top: 15px;
+	padding-top: 15px ;
+	float: right ;
+	width: 25% ;
+	margin-right: 15px ; 
+	font-family: 'Noto Serif', serif;
+	color:  #9D9D9D ;
+	font-size: 13px ;
+	text-align: center;
+}
+
+#tag
+{
+	background-color: #FAFADE ;
+	margin-top: 15px;
+	padding-top: 15px ;
+	float: right ;
+	width: 25% ;
+	margin-right: 15px ; 
+	font-family: 'Noto Serif', serif;
+	color:  #9D9D9D ;
+	font-size: 13px ;
+	text-align: left;
+}
+
+.mots
+{
+	padding: 0px 15px 0px 15px ;
+	line-height: 1.5;
+	font-family: 'Roboto', sans-serif;
+	font-size: 11px ;
+	color: #38841A;
+}
+
+	#clear
+{
+	clear: both;
+}
+
+
